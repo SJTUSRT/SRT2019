@@ -1,0 +1,8 @@
+prefix=/home/johnjackal/srt2019_ws/devel
+
+Name: rslidar_sync
+Description: Description of rslidar_sync
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

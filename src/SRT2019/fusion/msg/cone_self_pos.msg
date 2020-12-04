@@ -1,0 +1,9 @@
+float32 x1
+float32 y1
+float64 stamp1
+float32 x2
+float32 y2
+float64 stamp2
+float32 update_round
+float32 update_time
+string color

@@ -1,0 +1,2 @@
+SRT2019/MYNT-EYE-D-SDK/wrappers/ros/src/mynteye_wrapper_d:SRT2019/fusion:SRT2019/ros_rslidar/rslidar:SRT2019/ros_rslidar/rslidar_driver:SRT2019/ros_rslidar/rslidar_msgs:SRT2019/ros_rslidar/rslidar_pointcloud:SRT2019/ros_rslidar/rslidar_sync:SRT2019/simple_controller
+-DCATKIN_DEVEL_PREFIX=/home/johnjackal/srt2019_ws/devel -DCMAKE_INSTALL_PREFIX=/home/johnjackal/srt2019_ws/install -G Unix Makefiles

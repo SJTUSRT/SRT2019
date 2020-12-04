@@ -1,0 +1,6 @@
+<launch>
+    <node pkg ="fusion" type = "cone_visualization_v7.py" name = "cone_lidar_detection"/>
+    <node pkg = "fusion" type = "image_process.py" name = "cone_cam_detection"/>
+    <node pkg = "fusion" type = "lidar_cam_fusion.py" name = "lidar_cam_fusion" output = "screen"/>
+    <node pkg = "fusion" type = "fusion_visual.py" name = "fusion_visual"/>
+</launch>

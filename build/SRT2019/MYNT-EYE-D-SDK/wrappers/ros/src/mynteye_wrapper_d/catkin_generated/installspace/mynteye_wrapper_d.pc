@@ -1,0 +1,8 @@
+prefix=/home/johnjackal/srt2019_ws/install
+
+Name: mynteye_wrapper_d
+Description: Description of mynteye_wrapper_d
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: cv_bridge image_transport message_runtime nodelet roscpp sensor_msgs std_msgs tf

@@ -1,0 +1,8 @@
+prefix=/home/johnjackal/srt2019_ws/install
+
+Name: fusion
+Description: Description of fusion
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs visualization_msgs
